@@ -19,3 +19,9 @@ The primary dataset used for this analysis is the *(2017 Order Data.xlsx, 2018 O
 
 ---
 
+## Data Cleaning/Preparation 
+
+In the initial data preparation phase, the following tasks were performed: 
+
+### MS EXCEl DATA CLEANING 
+ - Creation of a power query for automating the data cleaning processes. To learn how to create a power query [click here](
