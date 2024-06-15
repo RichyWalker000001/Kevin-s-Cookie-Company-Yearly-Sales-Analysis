@@ -31,7 +31,13 @@ In the initial data preparation phase, the following tasks were performed:
  - Conditional formating of the dataset to review KPIs
  - Creation of pivot tables that would allow for creation of pivot charts for report creation.
 
-## Power query creation overview 
+## Power query identification on dataset 
+
+Excel 2019 Excel 2016
+Power Query offers several ways to create and load Power queries into your workbook. You can also set default query load settings in the Query Options window.   
+
+Tip:
+😉 **To tell if data in a worksheet is shaped by Power Query, select a cell of data, and if the Query context ribbon tab appears, then the data was loaded from Power Query.**
 
 
 
