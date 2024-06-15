@@ -1,4 +1,4 @@
-# Kevin-s-Cookie-Company-Yearly-Sales-Analysis
+up# Kevin-s-Cookie-Company-Yearly-Sales-Analysis
 
 ---
 
@@ -24,4 +24,16 @@ The primary dataset used for this analysis is the *(2017 Order Data.xlsx, 2018 O
 In the initial data preparation phase, the following tasks were performed: 
 
 ### MS EXCEl DATA CLEANING 
- - Creation of a power query for automating the data cleaning processes. To learn how to create a power query [click here](
+ - Creation of a power query for automating the data cleaning processes. To learn how to create, load or edit a query in Excel (power query) in details [click here](https://support.microsoft.com/en-au/office/create-load-or-edit-a-query-in-excel-power-query-ca69e0f0-3db1-4493-900c-6279bef08df4)
+ - Filtering out the data and removing unwanted rows, columns and data valuea in order to enhance the amalysis.
+ - Addition of new columns such as the *profits* and *shipping number of days* which were going to be used in answering critical business operational queations.
+ - Automated redundant processes using power query macros with main idea of not have to go through the same procedures while sourcing new data values into the dataset.
+ - Conditional formating of the dataset to review KPIs
+ - Creation of pivot tables that would allow for creation of pivot charts for report creation.
+
+## Power query creation overview 
+
+
+
+
+
