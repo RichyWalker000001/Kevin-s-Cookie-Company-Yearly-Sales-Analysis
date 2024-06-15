@@ -39,6 +39,15 @@ Power Query offers several ways to create and load Power queries into your workb
 Tip:
 😉 **To tell if data in a worksheet is shaped by Power Query, select a cell of data, and if the Query context ribbon tab appears, then the data was loaded from Power Query.**
 
+## SQL DATA CLEANING 
+
+ - Extract the dataset from the excel files.
+ - Creation of tables to fit the dataset into.
+ - Removal of data outliers by dropping/deleting unwanted values/columns and columns, thereafter format and updating tables.
+ - Prepared the data for EDA processea and visualization in Tableau.
+
+
+
 
 
 
