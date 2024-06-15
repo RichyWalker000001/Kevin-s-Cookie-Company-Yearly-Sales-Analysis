@@ -11,5 +11,11 @@
 The primary dataset used for this analysis is the *(2017 Order Data.xlsx, 2018 Order Data.xlsx, 2019 Order Data.xlsx, 2020 Order Data.xlsx, All years combined.xlxs)* containing detailed information about cookie sales made per year by the cookie company. 
 
  - To download the dataset [click here](https://1drv.ms/u/s!AmxrofZZlZ-whKZQTEiA4iLu-WPiaQ?e=AkAtOi)
- 
+
+ ## Tools 
+  - Excel - Used to Extract, Transform and Load data. It was also used to create a report through the generation of interactive dashboards.
+  - SQL - Used for Exploratory data analysis and Data Wrangling.
+  - Tableau - Creating reports from wrangled data in SQL
+
+---
 
