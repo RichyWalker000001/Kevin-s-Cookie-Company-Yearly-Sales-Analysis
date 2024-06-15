@@ -1,4 +1,4 @@
-up# Kevin-s-Cookie-Company-Yearly-Sales-Analysis
+# Kevin-s-Cookie-Company-Yearly-Sales-Analysis
 
 ---
 
