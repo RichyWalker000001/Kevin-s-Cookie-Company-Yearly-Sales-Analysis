@@ -46,9 +46,26 @@ Tip:
  - Removal of data outliers by dropping/deleting unwanted values/columns and columns, thereafter format and updating tables.
  - Prepared the data for EDA processea and visualization in Tableau.
 
+## Exploratory Data Analysis (EDA)
 
+EDA involved exploring the dataset in order to answer the following questions:
 
+ - *What is the overall cookie sales trend?*
+ - *Which year had the most profits and what let to this?*
+ - *What factors affect the steady downslope of cookie sales and the measures that can be implemented to curb this?*
+ - *What measures could be taken to ensure maximum customer satisfaction?*
+ - *What was the peak sales and what was the predicted future profits incase new measures were implemented?*
+ - *Which cookie type/category contributed to yielding maximum profits?*
 
+## Data Analysis 
 
+The Analysis of the dataset involved the use sql code such as the one sampled below:
+```sql
+    SELECT * FROM 2017_DATASET WHERE Shipping = 2;
+```
+**The SQL code above assisted in the analysis of profits obtained for cookie sales delivered to customers within 2 days. It helped realise that a two day (or less) cookie delivery policy for a maximum of 1000 cookie shipped yields profits that had an upward trajectory**
 
+## Results and Findings 
 
+The Analysis results can be summarized as follows:
+ - The company's sales on cookies has been increasing over the past years, with a noticeable peak during the year 2020
