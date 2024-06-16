@@ -1,10 +1,24 @@
 # Kevin-s-Cookie-Company-Yearly-Sales-Analysis
 
+## Table Of Contents 
+ - [Project Overview](#project-overview)
+ - [Data Sources](#data-sources)
+ - [Tools](#tools)
+ - [Data Cleaning and Preparations](#data-cleaning-and-preparation)
+    1. [MS EXCEL DATA CLEANING](#ms-excel-data-cleaning)
+       - [Power query identification on dataset](#power-query-identification-on-dataset)
+    2. [SQL DATA CLEANING](#sql-data-cleaning)
+  - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(EDA))
+  - [Data Analysis](#data-analysis)
+  - [Results and Findings](#results-and-findings)
+  - [Recommendations](#recommendations)
+  - [Limitations](#limitations)
+  - [References](#references)
 ---
 
 ## Project Overview 
 
-**This is a data analysis personal project that aims to provide insights into the cookie sales at Kevin's Cookie Company for the years *(2017, 2018, 2019, 2020)*, by sourcing/extracting the dataset, aggregating/cleaning the dataset by automating redundant processes in power query macros then afterwards analysing various aspects of the yearly cookie sales. The data cleaning automation processes ensured that any new dataset that is incorporated into the existing dataset will go through the redundant cleaning automation processes. The project aims to present i formed solutions to answer critically posed business questions from the stakeholders and management. This will be done through a keen identification of trends, make data driven recommendations and give a deeper understanding of the company's performance**
+**This is a data analysis personal project that aims to provide insights into the cookie sales at Kevin's Cookie Company for the years *(2017, 2018, 2019, 2020)*, by sourcing/extracting the dataset, aggregating/cleaning the dataset by automating redundant processes in power query macros then afterwards analysing various aspects of the yearly cookie sales. The data cleaning automation processes ensured that any new dataset that is incorporated into the existing dataset will go through the redundant cleaning automation processes. The project aims to present informed solutions to answer critically posed business questions from the stakeholders and management. This will be done through a keen identification of trends, make data driven recommendations and give a deeper understanding of the company's performance**
 
 ## Data Sources 
 
@@ -19,7 +33,7 @@ The primary dataset used for this analysis is the *(2017 Order Data.xlsx, 2018 O
 
 ---
 
-## Data Cleaning/Preparation 
+## Data Cleaning and Preparation 
 
 In the initial data preparation phase, the following tasks were performed: 
 
@@ -69,3 +83,19 @@ The Analysis of the dataset involved the use sql code such as the one sampled be
 
 The Analysis results can be summarized as follows:
  - The company's sales on cookies has been increasing over the past years, with a noticeable peak during the year 2020
+
+## Recommendations 
+Based on the analysis, the following measures were recommended:
+ - Invest in marketing and promotions during peak sales to maximize revenue.
+ - Focus on expanding and promoting products in category
+ - Implement a customer segmentation strategy to target high_liv customers effectively
+
+## Limitations 
+
+- We made some adjustments to the dataset while cleaning it through removing all free cookie sample datasets from the sales and budgets columns because they would have affected the accuracy of mu conclusions from the analysis.
+- There are still a few outliers even after the commission but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
+
+## References 
+
+1. SQL for business analytics by
+2. [stack overflow](https://stackoverflow.com)
